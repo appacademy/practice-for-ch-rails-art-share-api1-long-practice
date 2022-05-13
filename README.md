@@ -1,0 +1,1 @@
+# practice-for-ch-rails-art-share-api1-long-practice
